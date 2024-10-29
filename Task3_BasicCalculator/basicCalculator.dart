@@ -28,5 +28,4 @@ void main() {
   print(calculator.calculate(100, 5, '/')); // Output: 20
   print(calculator.calculate(18, 0, '/')); // Output: ArgumentError: Cannot divide by zero
   print(calculator.calculate(1, 5, 'x')); // Output: UnsupportedError: Invalid operator
-  print(calculator.calculate(15, 3, '')); //Output: ArgumentError: Operator cannot be null
 }
