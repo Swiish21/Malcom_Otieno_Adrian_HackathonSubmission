@@ -1,6 +1,6 @@
 def is_match(text: str, pattern: str) -> bool: #we defined a function is_match that has two parameters, one for the string to be checked and one for the regex pattern, the function is supposed to return either true or false(boolean)
 
-    #below here we deal with the case where if the pattern is empty, if it is , it means that our text must also be empty for it match, else it returns a false value. 
+    #below here we deal with the case where if the pattern is empty, if it is , it means that our text must also be empty for it to match, else it returns a false value. 
     if not pattern: 
         return not text
     #now we deal with the case where the first character of the text matches the first character of the pattern, also added a case where it will match if the first character is a (.) which stands for any character.
