@@ -28,5 +28,5 @@ def search(nums, target): #we define a function for binary search with 2 paramet
     return -1 # if the target is not found, we return -1
 
 nums = [5, 6, 7, 8, 0, 1, 2, 3, 4] # the array to be searched
-target = int(input("Enter the target element: ")) #user input for the target element
+target = int(input("Enter the target element(0 to 8): ")) #user input for the target element
 print(f"Element {target} found at index {search(nums, target)}") #we print the element and its index	
