@@ -15,7 +15,7 @@ Problem solved:
 
 Based on the problem presented (sorting a simple list of integers), it is obvious that the quicksort algorithm is the better option for this, because of a few reasons:
 
-Speed - it run through the list sorting and gives the sorted list result way faster compared to merge sort.
+Speed - it run through the list sorting and gives the sorted list result way faster compared to merge sort, in our case the quicksort program run and finished in approx less that 2 seconds while the merge took approx 3 sec
 
 Steps and complexity - The mergesort algorithm has more a complex approach to a simple problem, spliting a simple list into sublists then merging them back is redundant, the quicksort just defines a pivot, compares the values of the list to it and sorts them to produce a sorted list, it takes fewer steps to achieve the same outcome.
 
