@@ -10,4 +10,4 @@ Problems Solved:
 3. Error handling for an invalid operator(not in the test, but felt important)
 
 Problem Not Solved:
-1. Extend the function to handle multi-step operations, extending the function to handle these kind of operations led to a rise in new problems that rendered the whole program unfunctional, hence the choice not to include it.
+1. Extend the function to handle multi-step operations, extending the function to handle these kind of operations led to a rise in new problems that rendered the whole program nonfunctional, hence the choice not to include it.
