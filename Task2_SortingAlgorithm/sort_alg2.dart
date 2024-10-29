@@ -8,7 +8,6 @@ void main() {
 
 List<int> mergeSort(List<int> list) { //defining a the merge sort funtion and the parameter is the list we want to sort will be a parameter. We start defing the function with List<int> because we are going to return a list in this function.
   if (list.length <= 1) { //if our list length is less than or equal to 1, it means it already sorted hence no need to run the algorithm
-    print('This list has a length of 0 or 1, it is already sorted'); // a simple print statement
     return list; // return the list
   }
 
