@@ -11,3 +11,5 @@ File 2: ternary_search, is the solution to a challenge where we are required to 
 
 Problem Solved:
 1. Create a python ternary search algorithm for searching a target in a sorted array.
+
+Github repo: https://github.com/Swiish21/Task4_searchingAlg

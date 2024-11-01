@@ -19,3 +19,4 @@ Speed - it run through the list sorting and gives the sorted list result way fas
 
 Steps and complexity - The mergesort algorithm has more a complex approach to a simple problem, spliting a simple list into sublists then merging them back is redundant, the quicksort just defines a pivot, compares the values of the list to it and sorts them to produce a sorted list, it takes fewer steps to achieve the same outcome.
 
+Github repo link: https://github.com/Swiish21/Task2_SortingAlgorithm

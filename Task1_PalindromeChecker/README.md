@@ -9,3 +9,5 @@ We define a bool function 'isPalindromeNum' which has a single parameter 'input'
 Challenges solved:
 1. An algorithm that checks if a given string is an input.
 2. Extend the function to check for palindrome properties for numeric inputs.
+
+Github repo: https://github.com/Swiish21/Task1_PalindromeChecker
